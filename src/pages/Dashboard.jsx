@@ -59,16 +59,7 @@ export default function Dashboard() {
     <div className="min-h-screen ">
       <div className="container mx-auto px-4 py-8">
         {/* Header Section */}
-        <div className="text-center mb-8">
-          <h1 className="text-5xl font-bold mb-4 text-white">
-            🛰️ <span className="bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
-              ClearOrbit
-            </span> Dashboard
-          </h1>
-          <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            Real-time monitoring and tracking of space debris objects
-          </p>
-        </div>
+        
         
         {/* Statistics Cards */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
