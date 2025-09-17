@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+.outfit{
+    font-family: 'outfit',sans-serif;
+}
+.backgroundhome{
+    background: url(./images/aperture-vintage-Z6EpCdMcoUU-unsplash.jpg);
+    /* background-size: cover; */
+}
+.tablebck{
+    background-color: #ffffff0a;
+}
